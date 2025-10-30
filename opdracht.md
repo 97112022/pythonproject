@@ -1,6 +1,5 @@
 # Python basis
 
-
 ### Opdracht
 
 Maak op basis van het bestand lijst.csv een programma dat het volgende doet:
